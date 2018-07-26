@@ -56,3 +56,9 @@ Upload.
 ### Add Device
 
 LoRa -> The Things Network -> Cayenne LPP
+
+## Bonus Round
+
+* Don't use delay() to time transmissions
+* Use downlink to set onboard LED state
+* Lower power by using sleep and idle
